@@ -89,6 +89,7 @@ header img {
 }
 .navbar-menu li {
     padding: 14px 16px;
+     text-align: center;
 }
 .navbar-menu li a {
     color: white;
